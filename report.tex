@@ -1,0 +1,96 @@
+\documentclass[a4paper,13pt]{report}
+\author{Raj Naik Dhulapkar}
+
+% packages
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{pdfpages}
+\usepackage[nottoc,notlof,notlot]{tocbibind} 
+\usepackage{cite}
+\usepackage{xcolor}
+\usepackage{algorithm,algpseudocode}
+\usepackage{wrapfig,lipsum}
+\usepackage[font=small,skip=2pt]{caption}
+\usepackage[compact]{titlesec}
+\usepackage{hhline,colortbl}
+\usepackage{fancyhdr}
+\usepackage{scrextend}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{enumitem}
+
+% setup
+\setcounter{secnumdepth}{3}
+\renewcommand{\chaptername}{Experiment}
+\renewcommand\bibname{References}
+\renewcommand{\baselinestretch}{1.2}
+\parindent 1.5 pc
+\oddsidemargin  -1.3cm
+\evensidemargin -0.9cm
+\textwidth 18cm
+\topmargin -0.5in
+\textheight 25cm
+\titleformat{\chapter}[display]   
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}   
+\titlespacing*{\chapter}{0pt}{-50pt}{40pt}
+
+\pagestyle{fancy}
+\fancyhf{}
+% \fancyhead[LE,RO]{\rightmark}
+\fancyhead[RE,LO]{\leftmark}
+\fancyfoot[CE,CO]{20EEE1023}
+\fancyfoot[LE,RO]{\thepage}
+\fancyfoot[RE,LO]{EE605 Simulation Laboratory}
+
+
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\includeonly{./chapters/chapter_1/chapter_1}
+
+\begin{document}
+
+%==========================================================
+%                       TITLE PAGE
+%==========================================================
+
+\include{./chapters/titlepage}
+
+
+%==========================================================
+%                   CERTIFICATE PAGE
+%==========================================================
+\include{./chapters/certificatepage}
+
+%==========================================================
+%                   MARKSHEET PAGE
+%==========================================================
+\include{./chapters/marksheetpage}
+
+%==========================================================
+%                  TABLE OF CONTENT PAGE
+%==========================================================
+\tableofcontents
+
+%==========================================================
+%                  LIST OF FIGURES PAGE
+%==========================================================
+\listoffigures
+
+%==========================================================
+%                  LIST OF TABLES PAGE
+%==========================================================
+\listoftables
+
+\pagebreak
+
+\pagenumbering{arabic}
+
+\include{./chapters/chapter_1/chapter_1}
+
+
+\end{document}
