@@ -60,10 +60,15 @@ fiers, the thyristor is replaced by a diode, and $ \alpha $ = 0.
 
 For a single phase half wave uncontrolled rectifier
 
+\pagebreak
 
 \input{chapters/chapter_1/circuits/circuit_1}
 \input{chapters/chapter_1/circuits/circuit_2}
 \input{chapters/chapter_1/circuits/circuit_3}
+\input{chapters/chapter_1/circuits/circuit_4}
+\input{chapters/chapter_1/circuits/circuit_5}
+\input{chapters/chapter_1/circuits/circuit_6}
+\input{chapters/chapter_1/circuits/circuit_7}
 
 
 
@@ -82,58 +87,38 @@ $$I=\frac{V}{R}=\frac{50}{20}= 2.5~A~~ (for~ V =50 V);~~~   = 5~A~~ (for~ V =100
 \subsection{Simulation Results}
 \hspace{1.5cm} The simulink file is run for 10 sec considering V=50 V, and and corresponding current seen in the display is noted in the fourth column of second row of Table-\ref{Table_simulation-result}. Similarly, all other three rows are filled.  Further, constantly varying ramp voltage is applied and the corresponding \textit{v-i} graph is plotted in Fig. \ref{Fig_v-i graph}.
 
-\begin{minipage}{\textwidth}
-    \begin{minipage}[b]{0.6\textwidth}
-        \centering
-        \begin{tabular}{|c|c|c|c|}
-            \hline
-            \multirow{2}{*}{Sl No} & \multirow{2}{*}{Applied Voltage (V) in Volts} & \multicolumn{2}{c|}{Current (I) through R in Amps}             \\
-            \cline{3-4}
-                                   &                                               & Theoretical                                        & Simulated \\
-            \hline
-            1                      & 50                                            & 5                                                  & 2.5       \\
-            \hline
-            2                      & 100                                           & 10                                                 & 5         \\
-            \hline
-            3                      & 150                                           & 15                                                 & 7.5       \\
-            \hline
-            4                      & 200                                           & 20                                                 & 10        \\
-            \hline
-        \end{tabular}
-        \captionof{table}{Simulation Results}
-        \label{Table_simulation-result}
-    \end{minipage}
-    \hfill
 
-\end{minipage}
 
-\section{Discussion}
-\hspace{1.5cm} From the data of third and fourth column of Table-\ref{Table_simulation-result}, it is seen that the simulated values exactly matches with the corresponding theoretical numbers. Further, the simulated \textit{v-i} plot also matches with the theoretical\textit{v-i} plot (see Fig. ) of a resistance. The slope of the plot represents the resistance what is consider in the simulation. For example, consider the point at (100,5), and the slope of the line is $\frac{100-0}{5-0}=20$ and that is the value of resistance. It is also seen that the \textit{v-i} characteristics is same for sinusoidal applied voltage.
 
-\section{Observation}
-\subsection{For Simulation}
-\begin{enumerate}
-    \item Proper simulation step size has to be chosen fro the simulation. In case of sinusoidal forcing function, the step size is chosen to be $10^{-4}$ s.
-\end{enumerate}
-\subsection{For Real Experiment}
-\begin{enumerate}
-    \item There might be error in resistance value which results in slightly mismatch in the results.
-    \item There might be a chance of error in readings due to analog instruments.
-    \item There might be a chance of change in temperature of the resistance if the experiment is run for long time, which effects the experimental results.
-\end{enumerate}
+\begin{table}[h]
+    \renewcommand{\arraystretch}{1.3}
+    \caption{Observations for Single Phase Half Wave Controlled Rectifier with RLE load}
+    \centering
+    \begin{tabular}{|c|c|c|c|}
+        \hline
+        \multirow{2}{*}{Sl No} & \multirow{2}{*}{Applied Voltage (V) in Volts} & \multicolumn{2}{c|}{Current (I) through R in Amps}             \\
+        \cline{3-4}
+                               &                                               & Theoretical                                        & Simulated \\
+        \hline
+        1                      & 50                                            & 5                                                  & 2.5       \\
+        \hline
+        2                      & 100                                           & 10                                                 & 5         \\
+        \hline
+        3                      & 150                                           & 15                                                 & 7.5       \\
+        \hline
+        4                      & 200                                           & 20                                                 & 10        \\
+        \hline
+    \end{tabular}
+\end{table}
+
 
 \section{Conclusion}
-\hspace{1.5cm} Verification of Ohm's Law is done through simulation in Matlab/Simulink platform. The simulation is done considering constant DC voltage, variable ramp voltage and sinusoidal voltage. In each case, the theoretical and simulated results matches well.
+\hspace{\parindent}
+The design of single phase half wave rectifiers, both controlled and
+uncontrolled, with R, RL, RL with freewheeling diode, and RLE
+loads were implemented successfully in MATLAB using Simulink.
+The output waveforms for voltage and current were obtained in each
+case, and a comparison between theoretically calculated and simu-
+lated output parameter values was also performed.
 
-\begin{thebibliography}{15}
-
-    \bibitem{journal1} R.E. Higgs, K.G. Bemis, I.A. Watson and J.H. Wikel, “Experimental designs for selecting molecules from large chemical databases”, \textit{Journal of Chemical Information and Computer Sciences}, 37(5), 861-870, September 1997.
-
-    \bibitem{conference1} N. Paivinen and T. Gronfors, “Minimum spanning tree clustering of EEG signals”, \textit{$6^{th}$ Nordic Signal Processing Symposium (NORSIG-2004)}, Finland, pp. 149-152, June 9-11, 2004.
-
-\end{thebibliography}
 \pagebreak
-
-%==========================================================
-%           CHAPTER : Verification of Kirchhoff’s Law 
-%==========================================================
