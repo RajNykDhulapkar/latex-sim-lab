@@ -13,12 +13,17 @@
 \contentsline {subsection}{\numberline {1.6.2}Components Required}{3}{}%
 \contentsline {subsection}{\numberline {1.6.3}Resultant Waveforms}{3}{}%
 \contentsline {subsection}{\numberline {1.6.4}Observations}{3}{}%
-\contentsline {section}{\numberline {1.7}Results}{3}{}%
-\contentsline {subsection}{\numberline {1.7.1}Theoretical Calculation}{3}{}%
-\contentsline {subsection}{\numberline {1.7.2}Simulation Results}{4}{}%
-\contentsline {section}{\numberline {1.8}Discussion}{4}{}%
-\contentsline {section}{\numberline {1.9}Observation}{5}{}%
-\contentsline {subsection}{\numberline {1.9.1}For Simulation}{5}{}%
-\contentsline {subsection}{\numberline {1.9.2}For Real Experiment}{5}{}%
-\contentsline {section}{\numberline {1.10}Conclusion}{5}{}%
-\contentsline {chapter}{References}{6}{}%
+\contentsline {section}{\numberline {1.7}Single Phase Half Wave Uncontrolled Rectifier with RL }{4}{}%
+\contentsline {subsection}{\numberline {1.7.1}Circuit used for simulation}{4}{}%
+\contentsline {subsection}{\numberline {1.7.2}Components Required}{4}{}%
+\contentsline {subsection}{\numberline {1.7.3}Resultant Waveforms}{4}{}%
+\contentsline {subsection}{\numberline {1.7.4}Observations}{4}{}%
+\contentsline {section}{\numberline {1.8}Results}{4}{}%
+\contentsline {subsection}{\numberline {1.8.1}Theoretical Calculation}{4}{}%
+\contentsline {subsection}{\numberline {1.8.2}Simulation Results}{5}{}%
+\contentsline {section}{\numberline {1.9}Discussion}{6}{}%
+\contentsline {section}{\numberline {1.10}Observation}{6}{}%
+\contentsline {subsection}{\numberline {1.10.1}For Simulation}{6}{}%
+\contentsline {subsection}{\numberline {1.10.2}For Real Experiment}{6}{}%
+\contentsline {section}{\numberline {1.11}Conclusion}{6}{}%
+\contentsline {chapter}{References}{7}{}%

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.19)  16 FEB 2023 00:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.19)  16 FEB 2023 01:14
 entering extended mode
 **"c:/X1_Enter/Latex Documents/Record For Simulation Lab/report.tex"
 (c:/X1_Enter/Latex Documents/Record For Simulation Lab/report.tex
@@ -328,7 +328,20 @@ Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is usel
 LaTeX Warning: Unused global option(s):
     [13pt].
 
-(report.aux (chapters/titlepage.aux) (chapters/certificatepage.aux) (chapters/marksheetpage.aux) (chapters/chapter_1/chapter_1.aux))
+(report.aux (chapters/titlepage.aux) (chapters/certificatepage.aux) (chapters/marksheetpage.aux) (chapters/chapter_1/chapter_1.aux
+
+LaTeX Warning: Label `Fig_simulation_circuit_single-phase-half-wave-uncontrolled-rectifier-with-RL-load' multiply defined.
+
+
+LaTeX Warning: Label `table_components_required_circuit_2' multiply defined.
+
+
+LaTeX Warning: Label `Fig_waveform_single-phase-half-wave-uncontrolled-rectifier-with-RL-load' multiply defined.
+
+
+LaTeX Warning: Label `table_observation_2' multiply defined.
+
+))
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
@@ -402,7 +415,7 @@ Package caption Info: End \AtBeginDocument code.
  (chapters/chapter_1/chapter_1.tex
 Experiment 1.
 (chapters/chapter_1/circuits/circuit_1.tex
-<images/experiment-1/circuit-diagram-simulation-01.png, id=15, 667.74469pt x 264.99pt>
+<images/experiment-1/circuit-diagram-simulation-01.png, id=14, 667.74469pt x 264.99pt>
 File: images/experiment-1/circuit-diagram-simulation-01.png Graphic file (type png)
 <use images/experiment-1/circuit-diagram-simulation-01.png>
 Package pdftex.def Info: images/experiment-1/circuit-diagram-simulation-01.png  used on input line 9.
@@ -411,19 +424,19 @@ Package pdftex.def Info: images/experiment-1/circuit-diagram-simulation-01.png  
 
 
  <./images/experiment-1/circuit-diagram-simulation-01.png>]
-<images/experiment-1/circuit-scope-simulation-01.png, id=25, 1445.4pt x 718.93594pt>
+<images/experiment-1/circuit-scope-simulation-01.png, id=24, 1445.4pt x 718.93594pt>
 File: images/experiment-1/circuit-scope-simulation-01.png Graphic file (type png)
 <use images/experiment-1/circuit-scope-simulation-01.png>
 Package pdftex.def Info: images/experiment-1/circuit-scope-simulation-01.png  used on input line 46.
 (pdftex.def)             Requested size: 512.1496pt x 254.73587pt.
 ) (chapters/chapter_1/circuits/circuit_2.tex
-<images/experiment-1/circuit-diagram-simulation-02.png, id=26, 542.77782pt x 222.07968pt>
+<images/experiment-1/circuit-diagram-simulation-02.png, id=25, 542.77782pt x 222.07968pt>
 File: images/experiment-1/circuit-diagram-simulation-02.png Graphic file (type png)
 <use images/experiment-1/circuit-diagram-simulation-02.png>
 Package pdftex.def Info: images/experiment-1/circuit-diagram-simulation-02.png  used on input line 9.
 (pdftex.def)             Requested size: 358.50314pt x 146.68825pt.
  [2 <./images/experiment-1/circuit-scope-simulation-01.png (PNG copy)>]
-<images/experiment-1/circuit-scope-simulation-02.png, id=30, 1433.355pt x 701.62125pt>
+<images/experiment-1/circuit-scope-simulation-02.png, id=29, 1433.355pt x 701.62125pt>
 File: images/experiment-1/circuit-scope-simulation-02.png Graphic file (type png)
 <use images/experiment-1/circuit-scope-simulation-02.png>
 Package pdftex.def Info: images/experiment-1/circuit-scope-simulation-02.png  used on input line 48.
@@ -432,46 +445,70 @@ Package pdftex.def Info: images/experiment-1/circuit-scope-simulation-02.png  us
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+) (chapters/chapter_1/circuits/circuit_3.tex
+File: images/experiment-1/circuit-diagram-simulation-02.png Graphic file (type png)
+<use images/experiment-1/circuit-diagram-simulation-02.png>
+Package pdftex.def Info: images/experiment-1/circuit-diagram-simulation-02.png  used on input line 9.
+(pdftex.def)             Requested size: 358.50314pt x 146.68825pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: images/experiment-1/circuit-scope-simulation-02.png Graphic file (type png)
+<use images/experiment-1/circuit-scope-simulation-02.png>
+Package pdftex.def Info: images/experiment-1/circuit-scope-simulation-02.png  used on input line 48.
+(pdftex.def)             Requested size: 512.1496pt x 250.69922pt.
+[3 <./images/experiment-1/circuit-diagram-simulation-02.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 )
-Overfull \hbox (1.65431pt too wide) detected at line 77
+Overfull \hbox (1.65431pt too wide) detected at line 78
 \OML/cmm/m/it/10 I \OT1/cmr/m/n/10 = [] = [] = 2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5 []\OML/cmm/m/it/10 A [] []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 for []V \OT1/cmr/m/n/10 = 50\OML/cmm/m/it/10 V\OT1/cmr/m/n/10 );  [] [] [] = 5 []\OML/cmm/m/it/10 A [] []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 for []V \OT1/cmr/m/n/10 = 100\OML/cmm/m/it/10 V\OT1/cmr/m/n/10 );  [] [] [] = 7\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5 []\OML/cmm/m/it/10 A [] []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 for []V \OT1/cmr/m/n/10 = 150\OML/cmm/m/it/10 V\OT1/cmr/m/n/10 );  [] [] [] = 10 []\OML/cmm/m/it/10 A [] []\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 for []V \OT1/cmr/m/n/10 = 200\OML/cmm/m/it/10 V\OT1/cmr/m/n/10 )
  []
 
-[3 <./images/experiment-1/circuit-diagram-simulation-02.png>]
-Overfull \hbox (18.41873pt too wide) in paragraph at lines 87--102
+[4 <./images/experiment-1/circuit-scope-simulation-02.png (PNG copy)>]
+
+LaTeX Warning: Reference `Fig_v-i graph' on page 5 undefined on input line 83.
+
+
+Overfull \hbox (18.41873pt too wide) in paragraph at lines 88--103
  [][] 
  []
 
-<images/v-i graph.png, id=35, 421.575pt x 316.18124pt>
-File: images/v-i graph.png Graphic file (type png)
-<use images/v-i graph.png>
-Package pdftex.def Info: images/v-i graph.png  used on input line 108.
-(pdftex.def)             Requested size: 168.627pt x 126.47025pt.
 
-Overfull \hbox (48.32161pt too wide) in paragraph at lines 85--112
-[][]  [] 
- []
-
-
-Overfull \hbox (18.0pt too wide) in paragraph at lines 84--113
+Overfull \hbox (18.0pt too wide) in paragraph at lines 85--109
 []$[]$ 
  []
 
-[4 <./images/experiment-1/circuit-scope-simulation-02.png (PNG copy)> <./images/v-i graph.png (PNG copy)>] [5] [6
+[5] [6] [7
 
-]) (report.aux (chapters/titlepage.aux) (chapters/certificatepage.aux) (chapters/marksheetpage.aux) (chapters/chapter_1/chapter_1.aux)) ) 
+]) (report.aux (chapters/titlepage.aux) (chapters/certificatepage.aux) (chapters/marksheetpage.aux) (chapters/chapter_1/chapter_1.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 7548 strings out of 478840
- 126381 string characters out of 2848060
- 558059 words of memory out of 3000000
- 25333 multiletter control sequences out of 15000+600000
- 407305 words of font info for 40 fonts, out of 8000000 for 9000
+ 7544 strings out of 478840
+ 126477 string characters out of 2848060
+ 560090 words of memory out of 3000000
+ 25329 multiletter control sequences out of 15000+600000
+ 406960 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,13n,108p,779b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on report.pdf (9 pages, 367463 bytes).
+ 108i,13n,108p,760b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/rajdh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on report.pdf (10 pages, 347048 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
+ 92 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

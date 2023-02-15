@@ -618,7 +618,6 @@ INPUT C:\Users\rajdh\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT .\report.lof
 INPUT report.lof
 INPUT report.lof
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 OUTPUT report.lof
 INPUT .\report.lot
 INPUT report.lot
@@ -681,14 +680,22 @@ INPUT .\images\experiment-1\circuit-scope-simulation-02.png
 INPUT .\images\experiment-1\circuit-scope-simulation-02.png
 INPUT .\images\experiment-1\circuit-scope-simulation-02.png
 INPUT .\images\experiment-1\circuit-scope-simulation-02.png
-INPUT .\images\v-i graph.png
-INPUT .\images\v-i graph.png
-INPUT images\v-i graph.png
-INPUT .\images\v-i graph.png
-INPUT .\images\v-i graph.png
-INPUT .\images\v-i graph.png
-INPUT .\images\v-i graph.png
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti9.tfm
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\images\experiment-1\circuit-diagram-simulation-02.png
+INPUT .\images\experiment-1\circuit-diagram-simulation-02.png
+INPUT images\experiment-1\circuit-diagram-simulation-02.png
+INPUT .\images\experiment-1\circuit-diagram-simulation-02.png
+INPUT .\images\experiment-1\circuit-scope-simulation-02.png
+INPUT .\images\experiment-1\circuit-scope-simulation-02.png
+INPUT images\experiment-1\circuit-scope-simulation-02.png
+INPUT .\images\experiment-1\circuit-scope-simulation-02.png
+INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT report.aux
 INPUT .\chapters\titlepage.aux
 INPUT chapters\titlepage.aux
@@ -722,5 +729,3 @@ INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti9.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti9.pfb
