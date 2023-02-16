@@ -42,3 +42,12 @@
 \contentsline {subsection}{\numberline {1.12.1}Theoretical Calculation}{16}{}%
 \contentsline {subsection}{\numberline {1.12.2}Simulation Results}{16}{}%
 \contentsline {section}{\numberline {1.13}Conclusion}{16}{}%
+\contentsline {chapter}{\numberline {2}Full Wave Rectifier}{17}{}%
+\contentsline {section}{\numberline {2.1}Aim}{17}{}%
+\contentsline {section}{\numberline {2.2}Software Used}{17}{}%
+\contentsline {section}{\numberline {2.3}Theory}{17}{}%
+\contentsline {section}{\numberline {2.4}Theoretical Calculations}{17}{}%
+\contentsline {section}{\numberline {2.5}Results}{18}{}%
+\contentsline {subsection}{\numberline {2.5.1}Theoretical Calculation}{18}{}%
+\contentsline {subsection}{\numberline {2.5.2}Simulation Results}{18}{}%
+\contentsline {section}{\numberline {2.6}Conclusion}{18}{}%
