@@ -62,53 +62,14 @@ is 96.6V, and the output current is 9.66A.
 
 
 
-%-------------------------RESULTS---------------------------
-\section{Results}
-%------------SUB----------RESULTS---------------------------
-\subsection{Theoretical Calculation}
-
-
-\hspace{1.5cm} The resistance \textbf{R} in the circuit shown in Fig. 2.2 is considered as 20 $\Omega$, and the voltage (which is effectively the voltage across \textbf{R}) is considered as 50 V, 100 V, 150 V and 200 V in four steps as mentioned in the second column of Table-\ref{Table_simulation-result}. As per \textbf{Ohm's Law}, the current corresponding to all the four voltages are,
-$$I=\frac{V}{R}=\frac{50}{20}= 2.5~A~~ (for~ V =50 V);~~~   = 5~A~~ (for~ V =100 V);~~~
-    = 7.5~A~~ (for~ V =150 V);~~~= 10~A~~ (for~ V =200 V) $$
-
-
-%------------SUB----------RESULTS---------------------------
-\subsection{Simulation Results}
-\hspace{1.5cm} The simulink file is run for 10 sec considering V=50 V, and and corresponding current seen in the display is noted in the fourth column of second row of Table-\ref{Table_simulation-result}. Similarly, all other three rows are filled.  Further, constantly varying ramp voltage is applied and the corresponding \textit{v-i} graph is plotted in Fig. \ref{Fig_v-i graph}.
-
-
-
-
-\begin{table}[h]
-    \renewcommand{\arraystretch}{1.3}
-    \caption{Observations for Single Phase Half Wave Controlled Rectifier with RLE load}
-    \centering
-    \begin{tabular}{|c|c|c|c|}
-        \hline
-        \multirow{2}{*}{Sl No} & \multirow{2}{*}{Applied Voltage (V) in Volts} & \multicolumn{2}{c|}{Current (I) through R in Amps}             \\
-        \cline{3-4}
-                               &                                               & Theoretical                                        & Simulated \\
-        \hline
-        1                      & 50                                            & 5                                                  & 2.5       \\
-        \hline
-        2                      & 100                                           & 10                                                 & 5         \\
-        \hline
-        3                      & 150                                           & 15                                                 & 7.5       \\
-        \hline
-        4                      & 200                                           & 20                                                 & 10        \\
-        \hline
-    \end{tabular}
-\end{table}
-
-
 \section{Conclusion}
-\hspace{\parindent}
-The design of single phase half wave rectifiers, both controlled and
-uncontrolled, with R, RL, RL with freewheeling diode, and RLE
-loads were implemented successfully in MATLAB using Simulink.
-The output waveforms for voltage and current were obtained in each
-case, and a comparison between theoretically calculated and simu-
-lated output parameter values was also performed.
 
+
+\hspace{\parindent}
+
+In this experiment, the implementation of single-phase half-wave rectifiers, both controlled and uncontrolled, with resistive, inductive, resistive-inductive and resistive-inductive with freewheeling diode loads were successfully accomplished using MATLAB's Simulink. The output waveforms for voltage and current were obtained in each case, and a comparative analysis between theoretically calculated and simulated output parameters was also performed.
+
+Efficiency measurements were conducted on the half-wave uncontrolled rectifiers with R load, RL load, RL load with freewheeling diode, and RLE load, yielding efficiency values of 44.84\%, 43.84\%, 44.8\%, and 67.88\%, respectively. Thus, it can be concluded that the half-wave uncontrolled rectifier with RLE load has the maximum efficiency of 67.88\%. Similarly, the efficiency values of half-wave controlled rectifiers with R load, RL load, and RLE load were measured as 41.86\%, 40.85\%, 44.8\%, and 67.43\%, respectively. Thus, the half-wave controlled rectifier with RLE load has the maximum efficiency of 67.43\%.
+
+Overall, the simulation results provided a clear indication of the efficiency of each type of rectifier with different loads. These results can be used as a guide to select the appropriate type of rectifier for a specific load in real-world applications. The implementation of these rectifiers has great practical significance in power electronics and can be used in a variety of applications, such as power supplies, motor drives, and lighting systems.
 \pagebreak

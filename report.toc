@@ -36,18 +36,27 @@
 \contentsline {section}{\numberline {1.11}Single Phase Half Wave Controlled Rectifier with RLE load}{14}{}%
 \contentsline {subsection}{\numberline {1.11.1}Circuit used for simulation}{14}{}%
 \contentsline {subsection}{\numberline {1.11.2}Components Required}{14}{}%
-\contentsline {subsection}{\numberline {1.11.3}Observations}{14}{}%
+\contentsline {subsection}{\numberline {1.11.3}Observations}{15}{}%
 \contentsline {subsection}{\numberline {1.11.4}Resultant Waveforms}{15}{}%
-\contentsline {section}{\numberline {1.12}Results}{16}{}%
-\contentsline {subsection}{\numberline {1.12.1}Theoretical Calculation}{16}{}%
-\contentsline {subsection}{\numberline {1.12.2}Simulation Results}{16}{}%
-\contentsline {section}{\numberline {1.13}Conclusion}{16}{}%
+\contentsline {section}{\numberline {1.12}Conclusion}{16}{}%
 \contentsline {chapter}{\numberline {2}Full Wave Rectifier}{17}{}%
 \contentsline {section}{\numberline {2.1}Aim}{17}{}%
 \contentsline {section}{\numberline {2.2}Software Used}{17}{}%
 \contentsline {section}{\numberline {2.3}Theory}{17}{}%
 \contentsline {section}{\numberline {2.4}Theoretical Calculations}{17}{}%
-\contentsline {section}{\numberline {2.5}Results}{18}{}%
-\contentsline {subsection}{\numberline {2.5.1}Theoretical Calculation}{18}{}%
-\contentsline {subsection}{\numberline {2.5.2}Simulation Results}{18}{}%
-\contentsline {section}{\numberline {2.6}Conclusion}{18}{}%
+\contentsline {section}{\numberline {2.5}Single Phase Full Wave Uncontrolled Rectifier with R load}{19}{}%
+\contentsline {subsection}{\numberline {2.5.1}Circuit used for simulation}{19}{}%
+\contentsline {subsection}{\numberline {2.5.2}Components Required}{19}{}%
+\contentsline {subsection}{\numberline {2.5.3}Observations}{19}{}%
+\contentsline {subsection}{\numberline {2.5.4}Resultant Waveforms}{20}{}%
+\contentsline {section}{\numberline {2.6}Single Phase Half Wave Uncontrolled Rectifier with RL load}{21}{}%
+\contentsline {subsection}{\numberline {2.6.1}Circuit used for simulation}{21}{}%
+\contentsline {subsection}{\numberline {2.6.2}Components Required}{21}{}%
+\contentsline {subsection}{\numberline {2.6.3}Observations}{21}{}%
+\contentsline {subsection}{\numberline {2.6.4}Resultant Waveforms}{22}{}%
+\contentsline {section}{\numberline {2.7}Single Phase Half Wave Uncontrolled Rectifier with RL load and Freewheeling Diode}{23}{}%
+\contentsline {subsection}{\numberline {2.7.1}Circuit used for simulation}{23}{}%
+\contentsline {subsection}{\numberline {2.7.2}Components Required}{23}{}%
+\contentsline {subsection}{\numberline {2.7.3}Observations}{23}{}%
+\contentsline {subsection}{\numberline {2.7.4}Resultant Waveforms}{24}{}%
+\contentsline {section}{\numberline {2.8}Conclusion}{25}{}%

@@ -7,7 +7,7 @@
 \begin{figure}[h]
     \centering
     \includegraphics[width=0.7\textwidth]{images/experiment-1/circuit-diagram-simulation-05.png}
-    \caption{Circuit used for simulation}
+    \caption{Circuit used for simulation (Firing Angle = 30$ ^\circ $)}
     \label{Fig_simulation_circuit_single-phase-half-wave-controlled-rectifier-with-R-load}
 \end{figure}
 
@@ -15,8 +15,6 @@
 
 \begin{table}[h]
     \renewcommand{\arraystretch}{1.3}
-    \caption{Components for Single Phase Half Wave Controlled Rectifier with R load
-        load}
     \label{table_components_required_circuit_5}
     \centering
     \begin{tabular}{|c|c|c|c|}
@@ -36,7 +34,11 @@
         \hline
         6      & Ammeter                        & -                  & 1        \\
         \hline
+        7      & Thyristor                      & -                  & 1        \\
+        \hline
     \end{tabular}
+    \caption{Components for Single Phase Half Wave Controlled Rectifier with R load}
+
 \end{table}
 
 
@@ -45,7 +47,6 @@
 
 \begin{table}[h]
     \renewcommand{\arraystretch}{1.3}
-    \caption{Observations for Single Phase Half Wave Controlled Rectifier with R load}
     \label{table_observation_5}
     \centering
     \begin{tabular}{|c|c|c|}
@@ -55,19 +56,24 @@
         \hline
         AC Input Voltage ($ V_{in,rms} $)       & 230V               & 230V              \\
         \hline
-        Output Average Voltage ($ V_{o,avg} $)  & 103.53V            & 101.1V            \\
+        Output Average Voltage ($ V_{o,avg} $)  & 96.6V              & 96.28V            \\
         \hline
-        Output Average Current ($ I_{o,avg}  $) & 10.35A             & 10.11A            \\
+        Output Average Current ($ I_{o,avg}  $) & 9.66A              & 9.628A            \\
+        \hline
+        AC Input Power ($ P_{AC}  $)            & 2214.44 (W)        & 2214 (W)          \\
+        \hline
+        DC Input Power ($ P_{DC}  $)            & 926.98 (W)         & 926.9 (W)         \\
+        \hline
+        Efficiency (\%)                         & 41.86              & 41.86             \\
         \hline
     \end{tabular}
+    \caption{Observations for Single Phase Half Wave Controlled Rectifier with R load}
+
 \end{table}
 
 
-It is observed that the simulated values accurately match the the-
-oretical values. As the load is resistive in nature, the output current
-is in phase with output voltage. From the output voltage and cur-
-rent waveforms, it can be deduced that the diode gets forward biased
-during the positive half cycle of the AC source.
+The simulated values align closely with the theoretical values, indicating a high level of accuracy. Since the load is resistive, the output current is in phase with the output voltage. Additionally, it is evident that the application of the gate pulse to the thyristor initiates the rise of output voltage and current, which closely resembles the output waveforms of the uncontrolled rectifier.
+The efficiency of controlled rectifier with R load is 41.86%.
 
 \pagebreak
 

@@ -15,8 +15,6 @@
 
 \begin{table}[h]
     \renewcommand{\arraystretch}{1.3}
-    \caption{Components for Single Phase Half Wave Uncontrolled Rectifier with RLE load
-        load}
     \label{table_components_required_circuit_4}
     \centering
     \begin{tabular}{|c|c|c|c|}
@@ -39,6 +37,7 @@
         7      & Ammeter                        & -                  & 1        \\
         \hline
     \end{tabular}
+    \caption{Components for Single Phase Half Wave Uncontrolled Rectifier with RLE load}
 \end{table}
 
 
@@ -48,8 +47,7 @@
 
 \begin{table}[h]
     \renewcommand{\arraystretch}{1.3}
-    \caption{Observations for Single Phase Half Wave Uncontrolled Rectifier with R
-        load}
+
     \label{table_observation_4}
     \centering
     \begin{tabular}{|c|c|c|}
@@ -59,19 +57,23 @@
         \hline
         AC Input Voltage ($ V_{in,rms} $)       & 230V               & 230V              \\
         \hline
-        Output Average Voltage ($ V_{o,avg} $)  & 103.53V            & 101.1V            \\
+        Output Average Voltage ($ V_{o,avg} $)  & 103.53V            & 105.8V            \\
         \hline
-        Output Average Current ($ I_{o,avg}  $) & 10.35A             & 10.11A            \\
+        Output Average Current ($ I_{o,avg}  $) & 10.35A             & 9.583A            \\
+        \hline
+        AC Input Power ($ P_{AC}  $)            & 2389.5 (W)         & 1290 (W)          \\
+        \hline
+        DC Input Power ($ P_{DC}  $)            & 1071.53 (W)        & 875.8 (W)         \\
+        \hline
+        Efficiency (\%)                         & 44.84              & 67.88             \\
         \hline
     \end{tabular}
+    \caption{Observations for Single Phase Half Wave Uncontrolled Rectifier with RLE load}
 \end{table}
 
 
-It is observed that the simulated values accurately match the the-
-oretical values. As the load is resistive in nature, the output current
-is in phase with output voltage. From the output voltage and cur-
-rent waveforms, it can be deduced that the diode gets forward biased
-during the positive half cycle of the AC source.
+Upon observation of the simulation, it has been determined that the output voltage waveform of the single-phase half-wave rectifier mimics that of the RL load. However, it differs in that it always remains positive, and once the output current reaches zero, the diode ceases to conduct, and the output voltage becomes stabilized at 100V.
+The efficiency of uncontrolled rectifier with RLE load is 67.88%.
 
 \pagebreak
 
