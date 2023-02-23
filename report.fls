@@ -528,9 +528,6 @@ INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\en
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
-INPUT .\chapters\chapter_1\chapter_1.tex
-INPUT .\chapters\chapter_1\chapter_1.tex
-INPUT .\chapters\chapter_1\chapter_1.tex
 INPUT .\report.aux
 INPUT report.aux
 INPUT report.aux
@@ -617,23 +614,61 @@ INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\gr
 INPUT .\chapters\titlepage.tex
 INPUT .\chapters\titlepage.tex
 INPUT .\chapters\titlepage.tex
-INPUT .\chapters\certificatepage.tex
-INPUT .\chapters\certificatepage.tex
-INPUT .\chapters\certificatepage.tex
-INPUT .\chapters\marksheetpage.tex
-INPUT .\chapters\marksheetpage.tex
-INPUT .\chapters\marksheetpage.tex
+OUTPUT .\chapters\titlepage.aux
+INPUT .\chapters\titlepage.tex
+INPUT .\chapters\titlepage.tex
+INPUT .\chapters\titlepage.tex
+INPUT chapters\titlepage.tex
+INPUT .\chapters\titlepage.tex
+INPUT chapters\titlepage.tex
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmti12.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT .\images\NIT_Goa_Logo.png
+INPUT .\images\NIT_Goa_Logo.png
+INPUT images\NIT_Goa_Logo.png
+INPUT .\images\NIT_Goa_Logo.png
+OUTPUT report.pdf
+INPUT .\images\NIT_Goa_Logo.png
+INPUT .\images\NIT_Goa_Logo.png
+INPUT .\images\NIT_Goa_Logo.png
+INPUT C:\Users\Sanket Bhat\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT .\chapters\certificatepage.tex
+INPUT .\chapters\certificatepage.tex
+INPUT .\chapters\certificatepage.tex
+OUTPUT .\chapters\certificatepage.aux
+INPUT .\chapters\certificatepage.tex
+INPUT .\chapters\certificatepage.tex
+INPUT .\chapters\certificatepage.tex
+INPUT chapters\certificatepage.tex
+INPUT .\chapters\certificatepage.tex
+INPUT chapters\certificatepage.tex
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT .\images\NIT_Goa_Logo.png
+INPUT .\images\NIT_Goa_Logo.png
+INPUT images\NIT_Goa_Logo.png
+INPUT .\images\NIT_Goa_Logo.png
+INPUT .\chapters\marksheetpage.tex
+INPUT .\chapters\marksheetpage.tex
+INPUT .\chapters\marksheetpage.tex
+OUTPUT .\chapters\marksheetpage.aux
+INPUT .\chapters\marksheetpage.tex
+INPUT .\chapters\marksheetpage.tex
+INPUT .\chapters\marksheetpage.tex
+INPUT chapters\marksheetpage.tex
+INPUT .\chapters\marksheetpage.tex
+INPUT chapters\marksheetpage.tex
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\report.toc
 INPUT report.toc
 INPUT report.toc
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-OUTPUT report.pdf
-INPUT C:\Users\Sanket Bhat\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 OUTPUT report.toc
 INPUT .\report.lof
 INPUT report.lof
@@ -653,8 +688,6 @@ INPUT .\chapters\chapter_1\chapter_1.tex
 INPUT chapters\chapter_1\chapter_1.tex
 INPUT .\chapters\chapter_1\chapter_1.tex
 INPUT chapters\chapter_1\chapter_1.tex
-INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT .\chapters\chapter_1\circuits\circuit_1.tex
 INPUT .\chapters\chapter_1\circuits\circuit_1.tex
@@ -663,8 +696,6 @@ INPUT chapters\chapter_1\circuits\circuit_1.tex
 INPUT .\chapters\chapter_1\circuits\circuit_1.tex
 INPUT .\chapters\chapter_1\circuits\circuit_1.tex
 INPUT chapters\chapter_1\circuits\circuit_1.tex
-INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
 INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
 INPUT images\experiment-1\circuit-diagram-experiment-01.png
@@ -816,6 +847,76 @@ INPUT .\images\experiment-1\circuit-scope-experiment-07.png
 INPUT .\chapters\chapter_2\chapter_2.tex
 INPUT .\chapters\chapter_2\chapter_2.tex
 INPUT .\chapters\chapter_2\chapter_2.tex
+OUTPUT .\chapters\chapter_2\chapter_2.aux
+INPUT .\chapters\chapter_2\chapter_2.tex
+INPUT .\chapters\chapter_2\chapter_2.tex
+INPUT .\chapters\chapter_2\chapter_2.tex
+INPUT chapters\chapter_2\chapter_2.tex
+INPUT .\chapters\chapter_2\chapter_2.tex
+INPUT chapters\chapter_2\chapter_2.tex
+INPUT .\chapters\chapter_2\circuits\circuit_1.tex
+INPUT .\chapters\chapter_2\circuits\circuit_1.tex
+INPUT .\chapters\chapter_2\circuits\circuit_1.tex
+INPUT chapters\chapter_2\circuits\circuit_1.tex
+INPUT .\chapters\chapter_2\circuits\circuit_1.tex
+INPUT .\chapters\chapter_2\circuits\circuit_1.tex
+INPUT chapters\chapter_2\circuits\circuit_1.tex
+INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
+INPUT images\experiment-2\circuit-diagram-simulation-01.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
+INPUT .\images\experiment-2\circuit-scope-simulation-01.png
+INPUT .\images\experiment-2\circuit-scope-simulation-01.png
+INPUT images\experiment-2\circuit-scope-simulation-01.png
+INPUT .\images\experiment-2\circuit-scope-simulation-01.png
+INPUT .\images\experiment-2\circuit-scope-simulation-01.png
+INPUT .\images\experiment-2\circuit-scope-simulation-01.png
+INPUT .\images\experiment-2\circuit-scope-simulation-01.png
+INPUT .\chapters\chapter_2\circuits\circuit_2.tex
+INPUT .\chapters\chapter_2\circuits\circuit_2.tex
+INPUT .\chapters\chapter_2\circuits\circuit_2.tex
+INPUT chapters\chapter_2\circuits\circuit_2.tex
+INPUT .\chapters\chapter_2\circuits\circuit_2.tex
+INPUT .\chapters\chapter_2\circuits\circuit_2.tex
+INPUT chapters\chapter_2\circuits\circuit_2.tex
+INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
+INPUT images\experiment-2\circuit-diagram-simulation-02.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
+INPUT .\images\experiment-2\circuit-scope-simulation-02.png
+INPUT .\images\experiment-2\circuit-scope-simulation-02.png
+INPUT images\experiment-2\circuit-scope-simulation-02.png
+INPUT .\images\experiment-2\circuit-scope-simulation-02.png
+INPUT .\images\experiment-2\circuit-scope-simulation-02.png
+INPUT .\images\experiment-2\circuit-scope-simulation-02.png
+INPUT .\images\experiment-2\circuit-scope-simulation-02.png
+INPUT .\chapters\chapter_2\circuits\circuit_3.tex
+INPUT .\chapters\chapter_2\circuits\circuit_3.tex
+INPUT .\chapters\chapter_2\circuits\circuit_3.tex
+INPUT chapters\chapter_2\circuits\circuit_3.tex
+INPUT .\chapters\chapter_2\circuits\circuit_3.tex
+INPUT .\chapters\chapter_2\circuits\circuit_3.tex
+INPUT chapters\chapter_2\circuits\circuit_3.tex
+INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
+INPUT images\experiment-2\circuit-diagram-simulation-03.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
+INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
+INPUT .\images\experiment-2\circuit-scope-simulation-03.png
+INPUT .\images\experiment-2\circuit-scope-simulation-03.png
+INPUT images\experiment-2\circuit-scope-simulation-03.png
+INPUT .\images\experiment-2\circuit-scope-simulation-03.png
+INPUT .\images\experiment-2\circuit-scope-simulation-03.png
+INPUT .\images\experiment-2\circuit-scope-simulation-03.png
+INPUT .\images\experiment-2\circuit-scope-simulation-03.png
 INPUT report.aux
 INPUT .\chapters\titlepage.aux
 INPUT chapters\titlepage.aux
@@ -838,6 +939,8 @@ INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\am
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmmi10.pfb
@@ -846,9 +949,17 @@ INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\am
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr9.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy6.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy6.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmti12.pfb

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.20)  23 FEB 2023 11:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.2.20)  23 FEB 2023 19:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -398,13 +398,46 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (report.toc [3
+\openout2 = `./chapters/titlepage.aux'.
+
+ (chapters/titlepage.tex
+<images/NIT_Goa_Logo.png, id=1, 186.9384pt x 188.3838pt>
+File: images/NIT_Goa_Logo.png Graphic file (type png)
+<use images/NIT_Goa_Logo.png>
+Package pdftex.def Info: images/NIT_Goa_Logo.png  used on input line 24.
+(pdftex.def)             Requested size: 133.15607pt x 134.1846pt.
+ [1
+
+
+{C:/Users/Sanket Bhat/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/NIT_Goa_Logo.png>])
+\openout2 = `./chapters/certificatepage.aux'.
+
+ (chapters/certificatepage.tex
+File: images/NIT_Goa_Logo.png Graphic file (type png)
+<use images/NIT_Goa_Logo.png>
+Package pdftex.def Info: images/NIT_Goa_Logo.png  used on input line 5.
+(pdftex.def)             Requested size: 79.05556pt x 79.6678pt.
+
+Overfull \hbox (196.43694pt too wide) in paragraph at lines 10--15
+[][] 
+ []
+
+) [1
 
 
 
+]
+\openout2 = `./chapters/marksheetpage.aux'.
+
+ (chapters/marksheetpage.tex) [2
 
 
-{C:/Users/Sanket Bhat/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
+
+] (report.toc [3
+
+
+
+])
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
@@ -429,7 +462,7 @@ Experiment 1.
 
 
 ] (chapters/chapter_1/circuits/circuit_1.tex
-<images/experiment-1/circuit-diagram-experiment-01.png, id=25, 1129.21875pt x 483.60675pt>
+<images/experiment-1/circuit-diagram-experiment-01.png, id=41, 1129.21875pt x 483.60675pt>
 File: images/experiment-1/circuit-diagram-experiment-01.png Graphic file (type png)
 <use images/experiment-1/circuit-diagram-experiment-01.png>
 Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-01.png  used on input line 8.
@@ -439,13 +472,13 @@ Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-01.png  
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [2 <./images/experiment-1/circuit-diagram-experiment-01.png>]
-<images/experiment-1/circuit-scope-experiment-01.png, id=30, 1431.84938pt x 719.68875pt>
+<images/experiment-1/circuit-scope-experiment-01.png, id=46, 1431.84938pt x 719.68875pt>
 File: images/experiment-1/circuit-scope-experiment-01.png Graphic file (type png)
 <use images/experiment-1/circuit-scope-experiment-01.png>
 Package pdftex.def Info: images/experiment-1/circuit-scope-experiment-01.png  used on input line 81.
 (pdftex.def)             Requested size: 512.1496pt x 257.41855pt.
 ) [3 <./images/experiment-1/circuit-scope-experiment-01.png (PNG copy)>] (chapters/chapter_1/circuits/circuit_2.tex
-<images/experiment-1/circuit-diagram-experiment-02.png, id=35, 1129.21875pt x 483.60675pt>
+<images/experiment-1/circuit-diagram-experiment-02.png, id=50, 1129.21875pt x 483.60675pt>
 File: images/experiment-1/circuit-diagram-experiment-02.png Graphic file (type png)
 <use images/experiment-1/circuit-diagram-experiment-02.png>
 Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-02.png  used on input line 8.
@@ -455,13 +488,13 @@ Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-02.png  
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4 <./images/experiment-1/circuit-diagram-experiment-02.png>]
-<images/experiment-1/circuit-scope-experiment-02.png, id=39, 1431.84938pt x 719.68875pt>
+<images/experiment-1/circuit-scope-experiment-02.png, id=54, 1431.84938pt x 719.68875pt>
 File: images/experiment-1/circuit-scope-experiment-02.png Graphic file (type png)
 <use images/experiment-1/circuit-scope-experiment-02.png>
 Package pdftex.def Info: images/experiment-1/circuit-scope-experiment-02.png  used on input line 80.
 (pdftex.def)             Requested size: 512.1496pt x 257.41855pt.
 ) [5 <./images/experiment-1/circuit-scope-experiment-02.png (PNG copy)>] (chapters/chapter_1/circuits/circuit_3.tex
-<images/experiment-1/circuit-diagram-experiment-03.png, id=43, 1129.21875pt x 483.60675pt>
+<images/experiment-1/circuit-diagram-experiment-03.png, id=58, 1129.21875pt x 483.60675pt>
 File: images/experiment-1/circuit-diagram-experiment-03.png Graphic file (type png)
 <use images/experiment-1/circuit-diagram-experiment-03.png>
 Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-03.png  used on input line 8.
@@ -471,13 +504,13 @@ Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-03.png  
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6 <./images/experiment-1/circuit-diagram-experiment-03.png>]
-<images/experiment-1/circuit-scope-experiment-03.png, id=47, 1431.84938pt x 719.68875pt>
+<images/experiment-1/circuit-scope-experiment-03.png, id=63, 1431.84938pt x 719.68875pt>
 File: images/experiment-1/circuit-scope-experiment-03.png Graphic file (type png)
 <use images/experiment-1/circuit-scope-experiment-03.png>
 Package pdftex.def Info: images/experiment-1/circuit-scope-experiment-03.png  used on input line 82.
 (pdftex.def)             Requested size: 512.1496pt x 257.41855pt.
  [7 <./images/experiment-1/circuit-scope-experiment-03.png (PNG copy)>]) (chapters/chapter_1/circuits/circuit_4.tex
-<images/experiment-1/circuit-diagram-experiment-04.png, id=51, 1129.21875pt x 483.60675pt>
+<images/experiment-1/circuit-diagram-experiment-04.png, id=67, 1129.21875pt x 483.60675pt>
 File: images/experiment-1/circuit-diagram-experiment-04.png Graphic file (type png)
 <use images/experiment-1/circuit-diagram-experiment-04.png>
 Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-04.png  used on input line 8.
@@ -487,13 +520,13 @@ Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-04.png  
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [8 <./images/experiment-1/circuit-diagram-experiment-04.png>]
-<images/experiment-1/circuit-scope-experiment-04.png, id=55, 1431.84938pt x 719.68875pt>
+<images/experiment-1/circuit-scope-experiment-04.png, id=71, 1431.84938pt x 719.68875pt>
 File: images/experiment-1/circuit-scope-experiment-04.png Graphic file (type png)
 <use images/experiment-1/circuit-scope-experiment-04.png>
 Package pdftex.def Info: images/experiment-1/circuit-scope-experiment-04.png  used on input line 84.
 (pdftex.def)             Requested size: 512.1496pt x 257.41855pt.
  [9 <./images/experiment-1/circuit-scope-experiment-04.png (PNG copy)>]) (chapters/chapter_1/circuits/circuit_5.tex
-<images/experiment-1/circuit-diagram-experiment-05.png, id=60, 1129.21875pt x 483.60675pt>
+<images/experiment-1/circuit-diagram-experiment-05.png, id=75, 1129.21875pt x 483.60675pt>
 File: images/experiment-1/circuit-diagram-experiment-05.png Graphic file (type png)
 <use images/experiment-1/circuit-diagram-experiment-05.png>
 Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-05.png  used on input line 8.
@@ -503,13 +536,13 @@ Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-05.png  
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [10 <./images/experiment-1/circuit-diagram-experiment-05.png>]
-<images/experiment-1/circuit-scope-experiment-05.png, id=65, 1431.84938pt x 719.68875pt>
+<images/experiment-1/circuit-scope-experiment-05.png, id=80, 1431.84938pt x 719.68875pt>
 File: images/experiment-1/circuit-scope-experiment-05.png Graphic file (type png)
 <use images/experiment-1/circuit-scope-experiment-05.png>
-Package pdftex.def Info: images/experiment-1/circuit-scope-experiment-05.png  used on input line 85.
+Package pdftex.def Info: images/experiment-1/circuit-scope-experiment-05.png  used on input line 86.
 (pdftex.def)             Requested size: 512.1496pt x 257.41855pt.
 ) [11 <./images/experiment-1/circuit-scope-experiment-05.png (PNG copy)>] (chapters/chapter_1/circuits/circuit_6.tex
-<images/experiment-1/circuit-diagram-experiment-06.png, id=69, 1129.21875pt x 483.60675pt>
+<images/experiment-1/circuit-diagram-experiment-06.png, id=84, 1129.21875pt x 483.60675pt>
 File: images/experiment-1/circuit-diagram-experiment-06.png Graphic file (type png)
 <use images/experiment-1/circuit-diagram-experiment-06.png>
 Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-06.png  used on input line 8.
@@ -518,16 +551,16 @@ Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-06.png  
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/experiment-1/circuit-scope-experiment-06.png, id=70, 1431.84938pt x 719.68875pt>
+<images/experiment-1/circuit-scope-experiment-06.png, id=85, 1431.84938pt x 719.68875pt>
 File: images/experiment-1/circuit-scope-experiment-06.png Graphic file (type png)
 <use images/experiment-1/circuit-scope-experiment-06.png>
-Package pdftex.def Info: images/experiment-1/circuit-scope-experiment-06.png  used on input line 87.
+Package pdftex.def Info: images/experiment-1/circuit-scope-experiment-06.png  used on input line 86.
 (pdftex.def)             Requested size: 512.1496pt x 257.41855pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 ) [12 <./images/experiment-1/circuit-diagram-experiment-06.png>] (chapters/chapter_1/circuits/circuit_7.tex
-<images/experiment-1/circuit-diagram-experiment-07.png, id=74, 1129.21875pt x 483.60675pt>
+<images/experiment-1/circuit-diagram-experiment-07.png, id=90, 1129.21875pt x 483.60675pt>
 File: images/experiment-1/circuit-diagram-experiment-07.png Graphic file (type png)
 <use images/experiment-1/circuit-diagram-experiment-07.png>
 Package pdftex.def Info: images/experiment-1/circuit-diagram-experiment-07.png  used on input line 8.
@@ -543,27 +576,81 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/experiment-1/circuit-scope-experiment-07.png, id=78, 1431.84938pt x 719.68875pt>
+<images/experiment-1/circuit-scope-experiment-07.png, id=94, 1431.84938pt x 719.68875pt>
 File: images/experiment-1/circuit-scope-experiment-07.png Graphic file (type png)
 <use images/experiment-1/circuit-scope-experiment-07.png>
-Package pdftex.def Info: images/experiment-1/circuit-scope-experiment-07.png  used on input line 90.
+Package pdftex.def Info: images/experiment-1/circuit-scope-experiment-07.png  used on input line 89.
 (pdftex.def)             Requested size: 512.1496pt x 257.41855pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14 <./images/experiment-1/circuit-diagram-experiment-07.png>])) [15 <./images/experiment-1/circuit-scope-experiment-07.png (PNG copy)>] (report.aux (chapters/titlepage.aux) (chapters/certificatepage.aux) (chapters/marksheetpage.aux) (chapters/chapter_1/chapter_1.aux) (chapters/chapter_2/chapter_2.aux)) ) 
+[14 <./images/experiment-1/circuit-diagram-experiment-07.png>])) [15 <./images/experiment-1/circuit-scope-experiment-07.png (PNG copy)>]
+\openout2 = `./chapters/chapter_2/chapter_2.aux'.
+
+ (chapters/chapter_2/chapter_2.tex
+Experiment 2.
+[16
+
+
+
+
+] [17] (chapters/chapter_2/circuits/circuit_1.tex
+<images/experiment-2/circuit-diagram-simulation-01.png, id=109, 904.88063pt x 408.77719pt>
+File: images/experiment-2/circuit-diagram-simulation-01.png Graphic file (type png)
+<use images/experiment-2/circuit-diagram-simulation-01.png>
+Package pdftex.def Info: images/experiment-2/circuit-diagram-simulation-01.png  used on input line 10.
+(pdftex.def)             Requested size: 358.50314pt x 161.94861pt.
+ [18 <./images/experiment-2/circuit-diagram-simulation-01.png>]
+<images/experiment-2/circuit-scope-simulation-01.png, id=115, 1433.355pt x 701.62125pt>
+File: images/experiment-2/circuit-scope-simulation-01.png Graphic file (type png)
+<use images/experiment-2/circuit-scope-simulation-01.png>
+Package pdftex.def Info: images/experiment-2/circuit-scope-simulation-01.png  used on input line 79.
+(pdftex.def)             Requested size: 512.1496pt x 250.69922pt.
+) [19 <./images/experiment-2/circuit-scope-simulation-01.png (PNG copy)>] (chapters/chapter_2/circuits/circuit_2.tex
+<images/experiment-2/circuit-diagram-simulation-02.png, id=119, 561.59813pt x 315.42844pt>
+File: images/experiment-2/circuit-diagram-simulation-02.png Graphic file (type png)
+<use images/experiment-2/circuit-diagram-simulation-02.png>
+Package pdftex.def Info: images/experiment-2/circuit-diagram-simulation-02.png  used on input line 9.
+(pdftex.def)             Requested size: 358.50314pt x 201.3585pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20 <./images/experiment-2/circuit-diagram-simulation-02.png>]
+<images/experiment-2/circuit-scope-simulation-02.png, id=124, 1433.355pt x 701.62125pt>
+File: images/experiment-2/circuit-scope-simulation-02.png Graphic file (type png)
+<use images/experiment-2/circuit-scope-simulation-02.png>
+Package pdftex.def Info: images/experiment-2/circuit-scope-simulation-02.png  used on input line 81.
+(pdftex.def)             Requested size: 512.1496pt x 250.69922pt.
+) [21 <./images/experiment-2/circuit-scope-simulation-02.png (PNG copy)>] (chapters/chapter_2/circuits/circuit_3.tex
+<images/experiment-2/circuit-diagram-simulation-03.png, id=128, 568.37344pt x 311.66437pt>
+File: images/experiment-2/circuit-diagram-simulation-03.png Graphic file (type png)
+<use images/experiment-2/circuit-diagram-simulation-03.png>
+Package pdftex.def Info: images/experiment-2/circuit-diagram-simulation-03.png  used on input line 8.
+(pdftex.def)             Requested size: 358.50314pt x 196.59212pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22 <./images/experiment-2/circuit-diagram-simulation-03.png>]
+<images/experiment-2/circuit-scope-simulation-03.png, id=133, 1433.355pt x 701.62125pt>
+File: images/experiment-2/circuit-scope-simulation-03.png Graphic file (type png)
+<use images/experiment-2/circuit-scope-simulation-03.png>
+Package pdftex.def Info: images/experiment-2/circuit-scope-simulation-03.png  used on input line 82.
+(pdftex.def)             Requested size: 512.1496pt x 250.69922pt.
+ [23 <./images/experiment-2/circuit-scope-simulation-03.png (PNG copy)>])) [24] (report.aux (chapters/titlepage.aux) (chapters/certificatepage.aux) (chapters/marksheetpage.aux) (chapters/chapter_1/chapter_1.aux) (chapters/chapter_2/chapter_2.aux)) ) 
 Here is how much of TeX's memory you used:
- 8549 strings out of 475385
- 162590 string characters out of 2773101
- 618643 words of memory out of 3000000
- 29725 multiletter control sequences out of 15000+600000
- 474754 words of font info for 47 fonts, out of 8000000 for 9000
+ 8669 strings out of 475385
+ 168611 string characters out of 2773101
+ 618604 words of memory out of 3000000
+ 29818 multiletter control sequences out of 15000+600000
+ 475460 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,11n,106p,955b,404s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Sanket Bhat\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on report.pdf (19 pages, 1497326 bytes).
+ 108i,15n,106p,760b,404s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Sanket Bhat\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Sanket Bhat/AppData/Local/Programs/MiKTeX-1/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (31 pages, 1994942 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
+ 203 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
