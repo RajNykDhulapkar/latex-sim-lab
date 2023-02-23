@@ -1,4 +1,3 @@
-%-----------------------circuit 2--------------------------
 \section{Single Phase Half Wave Controlled Rectifier with RL load}
 
 \subsection{Circuit used for simulation}
@@ -6,8 +5,8 @@
 % figure that is centered on the page
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.7\textwidth]{images/experiment-1/circuit-diagram-simulation-06.png}
-    \caption{Circuit used for simulation (Firing Angle = 30$ ^\circ $))}
+    \includegraphics[width=1.0\textwidth]{images/experiment-1/circuit-diagram-experiment-06.png}
+    \caption{Circuit for Single Phase Half Wave Controlled Rectifier with RL load  (Firing Angle = 30$ ^\circ $)}
     \label{Fig_simulation_circuit_single-phase-half-wave-controlled-rectifier-with-RL-load}
 \end{figure}
 
@@ -15,7 +14,7 @@
 
 \begin{table}[h]
     \renewcommand{\arraystretch}{1.3}
-    \label{table_components_required_circuit_6}
+    \label{table_components_required_single-phase-half-wave-controlled-rectifier-with-RL-load}
     \centering
     \begin{tabular}{|c|c|c|c|}
         \hline
@@ -48,7 +47,7 @@
 
 \begin{table}[h]
     \renewcommand{\arraystretch}{1.3}
-    \label{table_observation_6}
+    \label{table_observation_single-phase-half-wave-controlled-rectifier-with-RL-load}
     \centering
     \begin{tabular}{|c|c|c|}
         \hline
@@ -73,9 +72,8 @@
 \end{table}
 
 
-Upon providing the firing gate pulse to the thyristor, it is observed that the circuit begins conducting. Due to the presence of an inductive component in the load, the output current lags behind the output voltage, leading to the conduction of the diode until the output current approaches zero. Consequently, the output voltage becomes negative during this duration. After the output current falls to zero, the thyristor ceases conduction, and the output voltage returns to zero as well.
-The efficiency of controlled
-rectifier with RL load is 37.99\%.
+It is observed that the circuit acts like an uncontrolled half wave rectifier only after the thyristor is triggered by a firing gate pulse. The output voltage waveform follows the shape of the RLE load waveform, and the output current lags the output voltage due to the inductive component of the load.
+The efficiency of controlled rectifier with RL load is 37.99\%.
 
 
 % \pagebreak
@@ -85,7 +83,7 @@ rectifier with RL load is 37.99\%.
 % figure that is centered on the page
 \begin{figure}[h]
     \centering
-    \includegraphics[width=1\textwidth]{images/experiment-1/circuit-scope-simulation-06.png}
+    \includegraphics[width=1\textwidth]{images/experiment-1/circuit-scope-experiment-06.png}
     \caption{Scope Waveforms for Single Phase Half Wave Controlled Rectifier with RL load}
     \label{Fig_waveform_single-phase-half-wave-controlled-rectifier-with-RL-load}
 \end{figure}

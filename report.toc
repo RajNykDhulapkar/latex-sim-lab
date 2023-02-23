@@ -32,13 +32,13 @@
 \contentsline {subsection}{\numberline {1.10.1}Circuit used for simulation}{12}{}%
 \contentsline {subsection}{\numberline {1.10.2}Components Required}{12}{}%
 \contentsline {subsection}{\numberline {1.10.3}Observations}{12}{}%
-\contentsline {subsection}{\numberline {1.10.4}Resultant Waveforms}{13}{}%
-\contentsline {section}{\numberline {1.11}Single Phase Half Wave Controlled Rectifier with RLE load}{14}{}%
-\contentsline {subsection}{\numberline {1.11.1}Circuit used for simulation}{14}{}%
-\contentsline {subsection}{\numberline {1.11.2}Components Required}{14}{}%
-\contentsline {subsection}{\numberline {1.11.3}Observations}{15}{}%
-\contentsline {subsection}{\numberline {1.11.4}Resultant Waveforms}{15}{}%
-\contentsline {section}{\numberline {1.12}Conclusion}{16}{}%
+\contentsline {subsection}{\numberline {1.10.4}Resultant Waveforms}{12}{}%
+\contentsline {section}{\numberline {1.11}Single Phase Half Wave Controlled Rectifier with RLE load}{13}{}%
+\contentsline {subsection}{\numberline {1.11.1}Circuit used for simulation}{13}{}%
+\contentsline {subsection}{\numberline {1.11.2}Components Required}{13}{}%
+\contentsline {subsection}{\numberline {1.11.3}Observations}{14}{}%
+\contentsline {subsection}{\numberline {1.11.4}Resultant Waveforms}{14}{}%
+\contentsline {section}{\numberline {1.12}Conclusion}{15}{}%
 \contentsline {chapter}{\numberline {2}Full Wave Rectifier}{19}{}%
 \contentsline {section}{\numberline {2.1}Aim}{19}{}%
 \contentsline {section}{\numberline {2.2}Software Used}{19}{}%
