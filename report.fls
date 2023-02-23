@@ -1,530 +1,536 @@
-PWD c:\X1_Enter\Latex Documents\Record For Simulation Lab
-INPUT C:\Users\rajdh\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\X1_Enter\Latex Documents\Record For Simulation Lab\report.tex
+PWD c:\Users\Sanket Bhat\OneDrive\Desktop\Projects\Latex\latex-sim-lab
+INPUT C:\Users\Sanket Bhat\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Sanket Bhat\OneDrive\Desktop\Projects\Latex\latex-sim-lab\report.tex
 OUTPUT report.log
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tocbibind\tocbibind.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\cite\cite.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithms\algorithm.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithms\algorithm.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithms\algorithm.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithms\algorithm.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithms\algorithm.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithms\algorithm.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithms\algorithm.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithms\algorithm.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithms\algorithm.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithms\algorithm.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithms\algorithm.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\l3kernel\expl3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\hhline.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrextend.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrextend.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrextend.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrextend.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrextend.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrextend.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrextend.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrextend.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrextend.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrextend.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrextend.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrkbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrkbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrkbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrkbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrkbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrkbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrkbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrkbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrkbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrkbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrkbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\footmisc\footmisc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\footmisc\footmisc.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\report.cls
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\report.cls
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\report.cls
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\report.cls
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\report.cls
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\report.cls
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\report.cls
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\report.cls
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\report.cls
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\report.cls
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\report.cls
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\size10.clo
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\size10.clo
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\size10.clo
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\size10.clo
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\inputenc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\inputenc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\inputenc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\inputenc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\inputenc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\inputenc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\inputenc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\inputenc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\inputenc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\inputenc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\inputenc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\trig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\trig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\trig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\trig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\trig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\trig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\trig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\trig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\trig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\trig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\trig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\calc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\calc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\calc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\calc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\calc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\calc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\calc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\calc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\calc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\calc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\calc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tocbibind\tocbibind.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\cite\cite.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\cite\cite.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\cite\cite.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\cite\cite.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\cite\cite.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\cite\cite.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\cite\cite.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\cite\cite.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\cite\cite.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\cite\cite.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\cite\cite.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithms\algorithm.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\float\float.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\float\float.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\float\float.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\float\float.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\float\float.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\float\float.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\float\float.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\float\float.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\float\float.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\float\float.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\float\float.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algpseudocode.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\algorithmicx\algorithmicx.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\base\ifthen.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3kernel\expl3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\caption\caption3.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\hhline.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\hhline.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\hhline.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\hhline.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\hhline.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\hhline.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\hhline.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\hhline.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\hhline.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\hhline.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\hhline.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\array.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\array.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\array.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\array.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\array.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\array.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\array.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\array.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\array.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\array.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\array.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\color.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrextend.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrkbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\footmisc\footmisc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\footmisc\footmisc.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\tools\array.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
+INPUT .\chapters\chapter_1\chapter_1.tex
+INPUT .\chapters\chapter_1\chapter_1.tex
+INPUT .\chapters\chapter_1\chapter_1.tex
 INPUT .\report.aux
 INPUT report.aux
 INPUT report.aux
@@ -544,59 +550,70 @@ INPUT .\chapters\chapter_2\chapter_2.aux
 INPUT chapters\chapter_2\chapter_2.aux
 INPUT chapters\chapter_2\chapter_2.aux
 OUTPUT report.aux
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\generic\iftex\iftex.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\lscape.sty
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\graphics\graphics.sty
 INPUT .\chapters\titlepage.tex
 INPUT .\chapters\titlepage.tex
 INPUT .\chapters\titlepage.tex
@@ -606,17 +623,17 @@ INPUT .\chapters\certificatepage.tex
 INPUT .\chapters\marksheetpage.tex
 INPUT .\chapters\marksheetpage.tex
 INPUT .\chapters\marksheetpage.tex
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\report.toc
 INPUT report.toc
 INPUT report.toc
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 OUTPUT report.pdf
-INPUT C:\Users\rajdh\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+INPUT C:\Users\Sanket Bhat\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 OUTPUT report.toc
 INPUT .\report.lof
 INPUT report.lof
@@ -629,84 +646,176 @@ OUTPUT report.lot
 INPUT .\chapters\chapter_1\chapter_1.tex
 INPUT .\chapters\chapter_1\chapter_1.tex
 INPUT .\chapters\chapter_1\chapter_1.tex
+OUTPUT .\chapters\chapter_1\chapter_1.aux
+INPUT .\chapters\chapter_1\chapter_1.tex
+INPUT .\chapters\chapter_1\chapter_1.tex
+INPUT .\chapters\chapter_1\chapter_1.tex
+INPUT chapters\chapter_1\chapter_1.tex
+INPUT .\chapters\chapter_1\chapter_1.tex
+INPUT chapters\chapter_1\chapter_1.tex
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT .\chapters\chapter_1\circuits\circuit_1.tex
+INPUT .\chapters\chapter_1\circuits\circuit_1.tex
+INPUT .\chapters\chapter_1\circuits\circuit_1.tex
+INPUT chapters\chapter_1\circuits\circuit_1.tex
+INPUT .\chapters\chapter_1\circuits\circuit_1.tex
+INPUT .\chapters\chapter_1\circuits\circuit_1.tex
+INPUT chapters\chapter_1\circuits\circuit_1.tex
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
+INPUT images\experiment-1\circuit-diagram-experiment-01.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr9.tfm
+INPUT .\images\experiment-1\circuit-scope-experiment-01.png
+INPUT .\images\experiment-1\circuit-scope-experiment-01.png
+INPUT images\experiment-1\circuit-scope-experiment-01.png
+INPUT .\images\experiment-1\circuit-scope-experiment-01.png
+INPUT .\images\experiment-1\circuit-scope-experiment-01.png
+INPUT .\images\experiment-1\circuit-scope-experiment-01.png
+INPUT .\images\experiment-1\circuit-scope-experiment-01.png
+INPUT .\chapters\chapter_1\circuits\circuit_2.tex
+INPUT .\chapters\chapter_1\circuits\circuit_2.tex
+INPUT .\chapters\chapter_1\circuits\circuit_2.tex
+INPUT chapters\chapter_1\circuits\circuit_2.tex
+INPUT .\chapters\chapter_1\circuits\circuit_2.tex
+INPUT .\chapters\chapter_1\circuits\circuit_2.tex
+INPUT chapters\chapter_1\circuits\circuit_2.tex
+INPUT .\images\experiment-1\circuit-diagram-experiment-02.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-02.png
+INPUT images\experiment-1\circuit-diagram-experiment-02.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-02.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-02.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-02.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-02.png
+INPUT .\images\experiment-1\circuit-scope-experiment-02.png
+INPUT .\images\experiment-1\circuit-scope-experiment-02.png
+INPUT images\experiment-1\circuit-scope-experiment-02.png
+INPUT .\images\experiment-1\circuit-scope-experiment-02.png
+INPUT .\images\experiment-1\circuit-scope-experiment-02.png
+INPUT .\images\experiment-1\circuit-scope-experiment-02.png
+INPUT .\images\experiment-1\circuit-scope-experiment-02.png
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\images\experiment-1\circuit-diagram-experiment-03.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-03.png
+INPUT images\experiment-1\circuit-diagram-experiment-03.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-03.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-03.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-03.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-03.png
+INPUT images\experiment-1\circuit-scope-experiment-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-03.png
+INPUT .\chapters\chapter_1\circuits\circuit_4.tex
+INPUT .\chapters\chapter_1\circuits\circuit_4.tex
+INPUT .\chapters\chapter_1\circuits\circuit_4.tex
+INPUT chapters\chapter_1\circuits\circuit_4.tex
+INPUT .\chapters\chapter_1\circuits\circuit_4.tex
+INPUT .\chapters\chapter_1\circuits\circuit_4.tex
+INPUT chapters\chapter_1\circuits\circuit_4.tex
+INPUT .\images\experiment-1\circuit-diagram-experiment-04.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-04.png
+INPUT images\experiment-1\circuit-diagram-experiment-04.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-04.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-04.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-04.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-04.png
+INPUT .\images\experiment-1\circuit-scope-experiment-04.png
+INPUT .\images\experiment-1\circuit-scope-experiment-04.png
+INPUT images\experiment-1\circuit-scope-experiment-04.png
+INPUT .\images\experiment-1\circuit-scope-experiment-04.png
+INPUT .\images\experiment-1\circuit-scope-experiment-04.png
+INPUT .\images\experiment-1\circuit-scope-experiment-04.png
+INPUT .\images\experiment-1\circuit-scope-experiment-04.png
+INPUT .\chapters\chapter_1\circuits\circuit_5.tex
+INPUT .\chapters\chapter_1\circuits\circuit_5.tex
+INPUT .\chapters\chapter_1\circuits\circuit_5.tex
+INPUT chapters\chapter_1\circuits\circuit_5.tex
+INPUT .\chapters\chapter_1\circuits\circuit_5.tex
+INPUT .\chapters\chapter_1\circuits\circuit_5.tex
+INPUT chapters\chapter_1\circuits\circuit_5.tex
+INPUT .\images\experiment-1\circuit-diagram-experiment-05.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-05.png
+INPUT images\experiment-1\circuit-diagram-experiment-05.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-05.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-05.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-05.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-05.png
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmmi9.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmsy9.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT .\images\experiment-1\circuit-scope-experiment-05.png
+INPUT .\images\experiment-1\circuit-scope-experiment-05.png
+INPUT images\experiment-1\circuit-scope-experiment-05.png
+INPUT .\images\experiment-1\circuit-scope-experiment-05.png
+INPUT .\images\experiment-1\circuit-scope-experiment-05.png
+INPUT .\images\experiment-1\circuit-scope-experiment-05.png
+INPUT .\images\experiment-1\circuit-scope-experiment-05.png
+INPUT .\chapters\chapter_1\circuits\circuit_6.tex
+INPUT .\chapters\chapter_1\circuits\circuit_6.tex
+INPUT .\chapters\chapter_1\circuits\circuit_6.tex
+INPUT chapters\chapter_1\circuits\circuit_6.tex
+INPUT .\chapters\chapter_1\circuits\circuit_6.tex
+INPUT .\chapters\chapter_1\circuits\circuit_6.tex
+INPUT chapters\chapter_1\circuits\circuit_6.tex
+INPUT .\images\experiment-1\circuit-diagram-experiment-06.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-06.png
+INPUT images\experiment-1\circuit-diagram-experiment-06.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-06.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-06.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-06.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-06.png
+INPUT .\images\experiment-1\circuit-scope-experiment-06.png
+INPUT .\images\experiment-1\circuit-scope-experiment-06.png
+INPUT images\experiment-1\circuit-scope-experiment-06.png
+INPUT .\images\experiment-1\circuit-scope-experiment-06.png
+INPUT .\images\experiment-1\circuit-scope-experiment-06.png
+INPUT .\images\experiment-1\circuit-scope-experiment-06.png
+INPUT .\images\experiment-1\circuit-scope-experiment-06.png
+INPUT .\chapters\chapter_1\circuits\circuit_7.tex
+INPUT .\chapters\chapter_1\circuits\circuit_7.tex
+INPUT .\chapters\chapter_1\circuits\circuit_7.tex
+INPUT chapters\chapter_1\circuits\circuit_7.tex
+INPUT .\chapters\chapter_1\circuits\circuit_7.tex
+INPUT .\chapters\chapter_1\circuits\circuit_7.tex
+INPUT chapters\chapter_1\circuits\circuit_7.tex
+INPUT .\images\experiment-1\circuit-diagram-experiment-07.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-07.png
+INPUT images\experiment-1\circuit-diagram-experiment-07.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-07.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-07.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-07.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-07.png
+INPUT .\images\experiment-1\circuit-scope-experiment-07.png
+INPUT .\images\experiment-1\circuit-scope-experiment-07.png
+INPUT images\experiment-1\circuit-scope-experiment-07.png
+INPUT .\images\experiment-1\circuit-scope-experiment-07.png
+INPUT .\images\experiment-1\circuit-scope-experiment-07.png
+INPUT .\images\experiment-1\circuit-scope-experiment-07.png
+INPUT .\images\experiment-1\circuit-scope-experiment-07.png
 INPUT .\chapters\chapter_2\chapter_2.tex
 INPUT .\chapters\chapter_2\chapter_2.tex
 INPUT .\chapters\chapter_2\chapter_2.tex
-OUTPUT .\chapters\chapter_2\chapter_2.aux
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT chapters\chapter_2\chapter_2.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT chapters\chapter_2\chapter_2.tex
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\chapters\chapter_2\circuits\circuit_1.tex
-INPUT .\chapters\chapter_2\circuits\circuit_1.tex
-INPUT .\chapters\chapter_2\circuits\circuit_1.tex
-INPUT chapters\chapter_2\circuits\circuit_1.tex
-INPUT .\chapters\chapter_2\circuits\circuit_1.tex
-INPUT .\chapters\chapter_2\circuits\circuit_1.tex
-INPUT chapters\chapter_2\circuits\circuit_1.tex
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
-INPUT images\experiment-2\circuit-diagram-simulation-01.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
-INPUT .\images\experiment-2\circuit-scope-simulation-01.png
-INPUT .\images\experiment-2\circuit-scope-simulation-01.png
-INPUT images\experiment-2\circuit-scope-simulation-01.png
-INPUT .\images\experiment-2\circuit-scope-simulation-01.png
-INPUT .\images\experiment-2\circuit-scope-simulation-01.png
-INPUT .\images\experiment-2\circuit-scope-simulation-01.png
-INPUT .\images\experiment-2\circuit-scope-simulation-01.png
-INPUT .\chapters\chapter_2\circuits\circuit_2.tex
-INPUT .\chapters\chapter_2\circuits\circuit_2.tex
-INPUT .\chapters\chapter_2\circuits\circuit_2.tex
-INPUT chapters\chapter_2\circuits\circuit_2.tex
-INPUT .\chapters\chapter_2\circuits\circuit_2.tex
-INPUT .\chapters\chapter_2\circuits\circuit_2.tex
-INPUT chapters\chapter_2\circuits\circuit_2.tex
-INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
-INPUT images\experiment-2\circuit-diagram-simulation-02.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
-INPUT .\images\experiment-2\circuit-scope-simulation-02.png
-INPUT .\images\experiment-2\circuit-scope-simulation-02.png
-INPUT images\experiment-2\circuit-scope-simulation-02.png
-INPUT .\images\experiment-2\circuit-scope-simulation-02.png
-INPUT .\images\experiment-2\circuit-scope-simulation-02.png
-INPUT .\images\experiment-2\circuit-scope-simulation-02.png
-INPUT .\images\experiment-2\circuit-scope-simulation-02.png
-INPUT .\chapters\chapter_2\circuits\circuit_3.tex
-INPUT .\chapters\chapter_2\circuits\circuit_3.tex
-INPUT .\chapters\chapter_2\circuits\circuit_3.tex
-INPUT chapters\chapter_2\circuits\circuit_3.tex
-INPUT .\chapters\chapter_2\circuits\circuit_3.tex
-INPUT .\chapters\chapter_2\circuits\circuit_3.tex
-INPUT chapters\chapter_2\circuits\circuit_3.tex
-INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
-INPUT images\experiment-2\circuit-diagram-simulation-03.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
-INPUT .\images\experiment-2\circuit-scope-simulation-03.png
-INPUT .\images\experiment-2\circuit-scope-simulation-03.png
-INPUT images\experiment-2\circuit-scope-simulation-03.png
-INPUT .\images\experiment-2\circuit-scope-simulation-03.png
-INPUT .\images\experiment-2\circuit-scope-simulation-03.png
-INPUT .\images\experiment-2\circuit-scope-simulation-03.png
-INPUT .\images\experiment-2\circuit-scope-simulation-03.png
 INPUT report.aux
 INPUT .\chapters\titlepage.aux
 INPUT chapters\titlepage.aux
@@ -723,21 +832,23 @@ INPUT chapters\chapter_1\chapter_1.aux
 INPUT .\chapters\chapter_2\chapter_2.aux
 INPUT chapters\chapter_2\chapter_2.aux
 INPUT chapters\chapter_2\chapter_2.aux
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi7.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\Users\rajdh\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\Sanket Bhat\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr9.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr9.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy7.pfb

@@ -1,4 +1,3 @@
-%-----------------------circuit 2--------------------------
 \section{Single Phase Half Wave Uncontrolled Rectifier with RLE load}
 
 \subsection{Circuit used for simulation}
@@ -6,8 +5,8 @@
 % figure that is centered on the page
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.7\textwidth]{images/experiment-1/circuit-diagram-simulation-04.png}
-    \caption{Circuit used for simulation}
+    \includegraphics[width=1.0\textwidth]{images/experiment-1/circuit-diagram-experiment-04.png}
+    \caption{Circuit for Single Phase Half Wave Uncontrolled Rectifier with RLE load}
     \label{Fig_simulation_circuit_single-phase-half-wave-uncontrolled-rectifier-with-RLE-load}
 \end{figure}
 
@@ -15,7 +14,7 @@
 
 \begin{table}[h]
     \renewcommand{\arraystretch}{1.3}
-    \label{table_components_required_circuit_4}
+    \label{table_components_required_single-phase-half-wave-uncontrolled-rectifier-with-RLE-load}
     \centering
     \begin{tabular}{|c|c|c|c|}
         \hline
@@ -48,7 +47,7 @@
 \begin{table}[h]
     \renewcommand{\arraystretch}{1.3}
 
-    \label{table_observation_4}
+    \label{table_observation_single-phase-half-wave-uncontrolled-rectifier-with-RLE-load}
     \centering
     \begin{tabular}{|c|c|c|}
         \hline
@@ -57,22 +56,22 @@
         \hline
         AC Input Voltage ($ V_{in,rms} $)       & 230V               & 230V              \\
         \hline
-        Output Average Voltage ($ V_{o,avg} $)  & 103.53V            & 105.8V            \\
+        Output Average Voltage ($ V_{o,avg} $)  & 148V               & 156V            \\
         \hline
-        Output Average Current ($ I_{o,avg}  $) & 10.35A             & 9.583A            \\
+        Output Average Current ($ I_{o,avg}  $) & 5.8A               & 5.605A            \\
         \hline
-        AC Input Power ($ P_{AC}  $)            & 2389.5 (W)         & 1290 (W)          \\
+        AC Input Power ($ P_{AC}  $)            & 2389.5 (W)         & 1485 (W)          \\
         \hline
-        DC Input Power ($ P_{DC}  $)            & 1071.53 (W)        & 875.8 (W)         \\
+        DC Input Power ($ P_{DC}  $)            & 1071.53 (W)        & 874.4 (W)         \\
         \hline
-        Efficiency (\%)                         & 44.84              & 67.88             \\
+        Efficiency (\%)                         & 44.84              & 58.88             \\
         \hline
     \end{tabular}
     \caption{Observations for Single Phase Half Wave Uncontrolled Rectifier with RLE load}
 \end{table}
 
 
-The simulation results reveal that the output voltage waveform follows the same shape as the RL load voltage waveform but with a positive DC offset. This is because of the rectification process that converts the negative half cycle of the input waveform into a positive voltage. When the output current falls to zero, the diode stops conducting, and the output voltage becomes a constant 100V, equal to the peak value of the input AC voltage.
+The simulation results show that the output voltage waveform for the RL load is similar to the input voltage waveform, but with a positive DC offset. This is due to the rectification process that converts the negative half cycle of the input waveform into a positive voltage. The diode in the circuit stops conducting when the output current falls to zero, which causes the output voltage to remain constant at 100V, equivalent to the peak value of the input AC voltage.
 The efficiency of uncontrolled rectifier with RLE load is 67.88%.
 
 \pagebreak
@@ -82,7 +81,7 @@ The efficiency of uncontrolled rectifier with RLE load is 67.88%.
 % figure that is centered on the page
 \begin{figure}[h]
     \centering
-    \includegraphics[width=1\textwidth]{images/experiment-1/circuit-scope-simulation-04.png}
+    \includegraphics[width=1\textwidth]{images/experiment-1/circuit-scope-experiment-04.png}
     \caption{Scope Waveforms for Single Phase Half Wave Uncontrolled Rectifier with RLE load waveforms}
     \label{Fig_waveform_single-phase-half-wave-uncontrolled-rectifier-with-RLE-load}
 \end{figure}
