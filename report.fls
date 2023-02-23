@@ -528,9 +528,9 @@ INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\en
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\tex\latex\enumitem\enumitem.sty
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
+INPUT .\chapters\chapter_1\chapter_1.tex
+INPUT .\chapters\chapter_1\chapter_1.tex
+INPUT .\chapters\chapter_1\chapter_1.tex
 INPUT .\report.aux
 INPUT report.aux
 INPUT report.aux
@@ -646,84 +646,176 @@ OUTPUT report.lot
 INPUT .\chapters\chapter_1\chapter_1.tex
 INPUT .\chapters\chapter_1\chapter_1.tex
 INPUT .\chapters\chapter_1\chapter_1.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
-OUTPUT .\chapters\chapter_2\chapter_2.aux
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT chapters\chapter_2\chapter_2.tex
-INPUT .\chapters\chapter_2\chapter_2.tex
-INPUT chapters\chapter_2\chapter_2.tex
+OUTPUT .\chapters\chapter_1\chapter_1.aux
+INPUT .\chapters\chapter_1\chapter_1.tex
+INPUT .\chapters\chapter_1\chapter_1.tex
+INPUT .\chapters\chapter_1\chapter_1.tex
+INPUT chapters\chapter_1\chapter_1.tex
+INPUT .\chapters\chapter_1\chapter_1.tex
+INPUT chapters\chapter_1\chapter_1.tex
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\chapters\chapter_2\circuits\circuit_1.tex
-INPUT .\chapters\chapter_2\circuits\circuit_1.tex
-INPUT .\chapters\chapter_2\circuits\circuit_1.tex
-INPUT chapters\chapter_2\circuits\circuit_1.tex
-INPUT .\chapters\chapter_2\circuits\circuit_1.tex
-INPUT .\chapters\chapter_2\circuits\circuit_1.tex
-INPUT chapters\chapter_2\circuits\circuit_1.tex
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT .\chapters\chapter_1\circuits\circuit_1.tex
+INPUT .\chapters\chapter_1\circuits\circuit_1.tex
+INPUT .\chapters\chapter_1\circuits\circuit_1.tex
+INPUT chapters\chapter_1\circuits\circuit_1.tex
+INPUT .\chapters\chapter_1\circuits\circuit_1.tex
+INPUT .\chapters\chapter_1\circuits\circuit_1.tex
+INPUT chapters\chapter_1\circuits\circuit_1.tex
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
-INPUT images\experiment-2\circuit-diagram-simulation-01.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-01.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
+INPUT images\experiment-1\circuit-diagram-experiment-01.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-01.png
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr9.tfm
-INPUT .\images\experiment-2\circuit-scope-simulation-01.png
-INPUT .\images\experiment-2\circuit-scope-simulation-01.png
-INPUT images\experiment-2\circuit-scope-simulation-01.png
-INPUT .\images\experiment-2\circuit-scope-simulation-01.png
-INPUT .\images\experiment-2\circuit-scope-simulation-01.png
-INPUT .\images\experiment-2\circuit-scope-simulation-01.png
-INPUT .\images\experiment-2\circuit-scope-simulation-01.png
-INPUT .\chapters\chapter_2\circuits\circuit_2.tex
-INPUT .\chapters\chapter_2\circuits\circuit_2.tex
-INPUT .\chapters\chapter_2\circuits\circuit_2.tex
-INPUT chapters\chapter_2\circuits\circuit_2.tex
-INPUT .\chapters\chapter_2\circuits\circuit_2.tex
-INPUT .\chapters\chapter_2\circuits\circuit_2.tex
-INPUT chapters\chapter_2\circuits\circuit_2.tex
-INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
-INPUT images\experiment-2\circuit-diagram-simulation-02.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-02.png
-INPUT .\images\experiment-2\circuit-scope-simulation-02.png
-INPUT .\images\experiment-2\circuit-scope-simulation-02.png
-INPUT images\experiment-2\circuit-scope-simulation-02.png
-INPUT .\images\experiment-2\circuit-scope-simulation-02.png
-INPUT .\images\experiment-2\circuit-scope-simulation-02.png
-INPUT .\images\experiment-2\circuit-scope-simulation-02.png
-INPUT .\images\experiment-2\circuit-scope-simulation-02.png
-INPUT .\chapters\chapter_2\circuits\circuit_3.tex
-INPUT .\chapters\chapter_2\circuits\circuit_3.tex
-INPUT .\chapters\chapter_2\circuits\circuit_3.tex
-INPUT chapters\chapter_2\circuits\circuit_3.tex
-INPUT .\chapters\chapter_2\circuits\circuit_3.tex
-INPUT .\chapters\chapter_2\circuits\circuit_3.tex
-INPUT chapters\chapter_2\circuits\circuit_3.tex
-INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
-INPUT images\experiment-2\circuit-diagram-simulation-03.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
-INPUT .\images\experiment-2\circuit-diagram-simulation-03.png
-INPUT .\images\experiment-2\circuit-scope-simulation-03.png
-INPUT .\images\experiment-2\circuit-scope-simulation-03.png
-INPUT images\experiment-2\circuit-scope-simulation-03.png
-INPUT .\images\experiment-2\circuit-scope-simulation-03.png
-INPUT .\images\experiment-2\circuit-scope-simulation-03.png
-INPUT .\images\experiment-2\circuit-scope-simulation-03.png
-INPUT .\images\experiment-2\circuit-scope-simulation-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-01.png
+INPUT .\images\experiment-1\circuit-scope-experiment-01.png
+INPUT images\experiment-1\circuit-scope-experiment-01.png
+INPUT .\images\experiment-1\circuit-scope-experiment-01.png
+INPUT .\images\experiment-1\circuit-scope-experiment-01.png
+INPUT .\images\experiment-1\circuit-scope-experiment-01.png
+INPUT .\images\experiment-1\circuit-scope-experiment-01.png
+INPUT .\chapters\chapter_1\circuits\circuit_2.tex
+INPUT .\chapters\chapter_1\circuits\circuit_2.tex
+INPUT .\chapters\chapter_1\circuits\circuit_2.tex
+INPUT chapters\chapter_1\circuits\circuit_2.tex
+INPUT .\chapters\chapter_1\circuits\circuit_2.tex
+INPUT .\chapters\chapter_1\circuits\circuit_2.tex
+INPUT chapters\chapter_1\circuits\circuit_2.tex
+INPUT .\images\experiment-1\circuit-diagram-experiment-02.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-02.png
+INPUT images\experiment-1\circuit-diagram-experiment-02.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-02.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-02.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-02.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-02.png
+INPUT .\images\experiment-1\circuit-scope-experiment-02.png
+INPUT .\images\experiment-1\circuit-scope-experiment-02.png
+INPUT images\experiment-1\circuit-scope-experiment-02.png
+INPUT .\images\experiment-1\circuit-scope-experiment-02.png
+INPUT .\images\experiment-1\circuit-scope-experiment-02.png
+INPUT .\images\experiment-1\circuit-scope-experiment-02.png
+INPUT .\images\experiment-1\circuit-scope-experiment-02.png
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\chapters\chapter_1\circuits\circuit_3.tex
+INPUT chapters\chapter_1\circuits\circuit_3.tex
+INPUT .\images\experiment-1\circuit-diagram-experiment-03.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-03.png
+INPUT images\experiment-1\circuit-diagram-experiment-03.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-03.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-03.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-03.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-03.png
+INPUT images\experiment-1\circuit-scope-experiment-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-03.png
+INPUT .\images\experiment-1\circuit-scope-experiment-03.png
+INPUT .\chapters\chapter_1\circuits\circuit_4.tex
+INPUT .\chapters\chapter_1\circuits\circuit_4.tex
+INPUT .\chapters\chapter_1\circuits\circuit_4.tex
+INPUT chapters\chapter_1\circuits\circuit_4.tex
+INPUT .\chapters\chapter_1\circuits\circuit_4.tex
+INPUT .\chapters\chapter_1\circuits\circuit_4.tex
+INPUT chapters\chapter_1\circuits\circuit_4.tex
+INPUT .\images\experiment-1\circuit-diagram-experiment-04.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-04.png
+INPUT images\experiment-1\circuit-diagram-experiment-04.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-04.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-04.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-04.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-04.png
+INPUT .\images\experiment-1\circuit-scope-experiment-04.png
+INPUT .\images\experiment-1\circuit-scope-experiment-04.png
+INPUT images\experiment-1\circuit-scope-experiment-04.png
+INPUT .\images\experiment-1\circuit-scope-experiment-04.png
+INPUT .\images\experiment-1\circuit-scope-experiment-04.png
+INPUT .\images\experiment-1\circuit-scope-experiment-04.png
+INPUT .\images\experiment-1\circuit-scope-experiment-04.png
+INPUT .\chapters\chapter_1\circuits\circuit_5.tex
+INPUT .\chapters\chapter_1\circuits\circuit_5.tex
+INPUT .\chapters\chapter_1\circuits\circuit_5.tex
+INPUT chapters\chapter_1\circuits\circuit_5.tex
+INPUT .\chapters\chapter_1\circuits\circuit_5.tex
+INPUT .\chapters\chapter_1\circuits\circuit_5.tex
+INPUT chapters\chapter_1\circuits\circuit_5.tex
+INPUT .\images\experiment-1\circuit-diagram-experiment-05.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-05.png
+INPUT images\experiment-1\circuit-diagram-experiment-05.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-05.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-05.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-05.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-05.png
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmmi9.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmsy9.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT .\images\experiment-1\circuit-scope-experiment-05.png
+INPUT .\images\experiment-1\circuit-scope-experiment-05.png
+INPUT images\experiment-1\circuit-scope-experiment-05.png
+INPUT .\images\experiment-1\circuit-scope-experiment-05.png
+INPUT .\images\experiment-1\circuit-scope-experiment-05.png
+INPUT .\images\experiment-1\circuit-scope-experiment-05.png
+INPUT .\images\experiment-1\circuit-scope-experiment-05.png
+INPUT .\chapters\chapter_1\circuits\circuit_6.tex
+INPUT .\chapters\chapter_1\circuits\circuit_6.tex
+INPUT .\chapters\chapter_1\circuits\circuit_6.tex
+INPUT chapters\chapter_1\circuits\circuit_6.tex
+INPUT .\chapters\chapter_1\circuits\circuit_6.tex
+INPUT .\chapters\chapter_1\circuits\circuit_6.tex
+INPUT chapters\chapter_1\circuits\circuit_6.tex
+INPUT .\images\experiment-1\circuit-diagram-experiment-06.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-06.png
+INPUT images\experiment-1\circuit-diagram-experiment-06.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-06.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-06.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-06.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-06.png
+INPUT .\images\experiment-1\circuit-scope-experiment-06.png
+INPUT .\images\experiment-1\circuit-scope-experiment-06.png
+INPUT images\experiment-1\circuit-scope-experiment-06.png
+INPUT .\images\experiment-1\circuit-scope-experiment-06.png
+INPUT .\images\experiment-1\circuit-scope-experiment-06.png
+INPUT .\images\experiment-1\circuit-scope-experiment-06.png
+INPUT .\images\experiment-1\circuit-scope-experiment-06.png
+INPUT .\chapters\chapter_1\circuits\circuit_7.tex
+INPUT .\chapters\chapter_1\circuits\circuit_7.tex
+INPUT .\chapters\chapter_1\circuits\circuit_7.tex
+INPUT chapters\chapter_1\circuits\circuit_7.tex
+INPUT .\chapters\chapter_1\circuits\circuit_7.tex
+INPUT .\chapters\chapter_1\circuits\circuit_7.tex
+INPUT chapters\chapter_1\circuits\circuit_7.tex
+INPUT .\images\experiment-1\circuit-diagram-experiment-07.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-07.png
+INPUT images\experiment-1\circuit-diagram-experiment-07.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-07.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-07.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-07.png
+INPUT .\images\experiment-1\circuit-diagram-experiment-07.png
+INPUT .\images\experiment-1\circuit-scope-experiment-07.png
+INPUT .\images\experiment-1\circuit-scope-experiment-07.png
+INPUT images\experiment-1\circuit-scope-experiment-07.png
+INPUT .\images\experiment-1\circuit-scope-experiment-07.png
+INPUT .\images\experiment-1\circuit-scope-experiment-07.png
+INPUT .\images\experiment-1\circuit-scope-experiment-07.png
+INPUT .\images\experiment-1\circuit-scope-experiment-07.png
+INPUT .\chapters\chapter_2\chapter_2.tex
+INPUT .\chapters\chapter_2\chapter_2.tex
+INPUT .\chapters\chapter_2\chapter_2.tex
 INPUT report.aux
 INPUT .\chapters\titlepage.aux
 INPUT chapters\titlepage.aux
@@ -740,21 +832,23 @@ INPUT chapters\chapter_1\chapter_1.aux
 INPUT .\chapters\chapter_2\chapter_2.aux
 INPUT chapters\chapter_2\chapter_2.aux
 INPUT chapters\chapter_2\chapter_2.aux
+INPUT C:\Users\Sanket Bhat\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\Sanket Bhat\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmr9.pfb
-INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy6.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\Sanket Bhat\AppData\Local\Programs\MiKTeX-1\fonts\type1\public\amsfonts\cm\cmsy7.pfb
