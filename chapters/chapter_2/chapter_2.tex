@@ -29,46 +29,28 @@ The four diodes used in the bridge rectifier are arranged in a way such that whe
 In the theory of full-wave rectifiers, the average output voltage and current for controlled full-wave rectifiers with resistive (R) load can be calculated using the following equations:
 
 \begin{equation}
-    V_0 = \frac{V_{phase}}{\sqrt{2}}\frac{(1+\cos\alpha)}{\pi}
+    V_{o,avg}
+    = \frac{V_{phase}\sqrt{2}(1+\cos\alpha)}{\pi}
+    = \frac{V_m(1+\cos\alpha)}{\pi}
 \end{equation}
 
 \begin{equation}
-    V_0 = \frac{V_m(1+\cos\alpha)}{2\pi}
-\end{equation}
-
-\begin{equation}
-    I_0 = \frac{V_0}{R}
+    I_{o,avg} = \frac{V_{o,avg}}{R}
 \end{equation}
 
 where $\alpha$ is the thyristor's firing angle. It should be noted that in uncontrolled rectifiers, the thyristor is switched out for a diode and $\alpha$ is equal to 0.
 
-For a single-phase full-wave uncontrolled rectifier, the average output voltage and current can be calculated as follows:
-
-\begin{equation}
-    V_0 = 2\sqrt{2}V_{rms}
-\end{equation}
-
-\begin{equation}
-    I_0 = 2I_{rms}
-\end{equation}
-
-where $V_{rms}$ is the root mean square value of the input voltage and $I_{rms}$ is the root mean square value of the input current.
-
-For a single-phase full-wave controlled rectifier, the average output voltage and current can be calculated as follows:
-
-\begin{equation}
-    V_0 = \frac{2\sqrt{2}V_{rms}(1-\cos\alpha)}{\pi}
-\end{equation}
-
-\begin{equation}
-    I_0 = \frac{2I_{rms}(1-\cos\alpha)}{\pi}
-\end{equation}
-
 Consider an AC source with an RMS voltage of 230V and a resistive load of 10$ \Omega $. The output voltage and current for a single phase full-wave uncontrolled rectifier are given by:
+\begin{align}
+    V_{0} = 207.07V \hspace{1cm}   I_{0} = 20.70A
+\end{align}
+
+The output voltage and current for a single phase full-wave controlled rectifier (Firing Angle = 30$ ^\circ $) are given by:
+
+\vspace{-0.5cm}
 
 \begin{align}
-    V_{0} & = 207.07\mathrm{V} \\
-    I_{0} & = 20.70\mathrm{A}
+    V_{0} = 193.2V \hspace{1cm}   I_{0} = 19.32A
 \end{align}
 
 % Similarly, for a single phase half-wave controlled rectifier with a firing angle of $ \alpha $  = 30, the output voltage and current are given by:
